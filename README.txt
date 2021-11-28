@@ -61,3 +61,5 @@ cd bootupdater
 make
 
 And upload it to your board using a JTAG/SWD adapter.
+
+NOTE: I used part of libaries which i changed/updated/bug fixed. Becarefull before upgradeing/replacing them.
